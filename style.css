@@ -1,3 +1,6 @@
+*{
+    color: aquamarine;
+}
 #principal{
-    background-image: "amazing.jpg";
+    background-image: url("images/amazing.jpg");
 }
